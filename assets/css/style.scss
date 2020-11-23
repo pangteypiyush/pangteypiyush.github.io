@@ -1,0 +1,17 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.wrapper {
+	width: auto;
+}
+
+header, footer {
+	width: 20vw;
+	background: none;
+}
+
+section {
+	width: 70vw;
+}
